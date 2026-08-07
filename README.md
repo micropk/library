@@ -9,5 +9,6 @@
 | Seats | 90 | 115 |
 | Inverter | 35 | 45 |
 | Air Conditioner | 35 | 50 |
+| Camera | 15 | 25 |
 | Miscellaneous | 15 | 25 |
-| **Total Range** | **310** | **425** |
+| **Total Range** | **325** | **450** |
