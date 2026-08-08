@@ -3,9 +3,9 @@
 ### 1) Executive Summary
 We will establish a **subscription-based Study Library** in our hometown providing a quiet, disciplined, comfortable study environment. The library will operate in **two shifts (8am–2pm and 2pm–8pm)** with **21 seats** initially and a planned expansion to **31–36 seats** once demand is proven.
 
-- **Pricing:** ₹500 per seat per month per shift  
+- **Pricing:** ₹756 per seat per month for whole day shift  
 - **Max memberships/month (Phase 1):** 21 seats × 2 shifts = **42**  
-- **Max revenue/month (Phase 1):** **₹21,000**  
+- **Max revenue/month (Phase 1):** **₹15,876**
 - **Premises:** **Owned** (no rent)  
 - **Summer AC:** Runs **8am–8pm** (electricity assumed ₹6,000/month)  
 - **Funding Ask:** **₹4.5 lakh**
