@@ -1,4 +1,4 @@
-## Final Business Plan (Investor Presentation) — Two-Shift Study Library (Phase 1: 21 Seats, Phase 2: +10–15 Seats)
+## Two-Shift Study Library (Phase 1: 21 Seats, Phase 2: +10–15 Seats)
 
 ### 1) Executive Summary
 We will establish a **subscription-based Study Library** in our hometown providing a quiet, disciplined, comfortable study environment. The library will operate in **two shifts (8am–2pm and 2pm–8pm)** with **21 seats** initially and a planned expansion to **31–36 seats** once demand is proven.
